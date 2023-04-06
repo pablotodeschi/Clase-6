@@ -1,0 +1,128 @@
+.avatar{/* Avatar */
+
+
+    position: absolute;
+    width: 205px;
+    height: 201px;
+    left: 653px;
+    top: 81px;
+
+}
+
+p{
+    position: absolute;
+    width: 289px;
+    height: 48px;
+    left: 611px;
+    top: 320px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    
+    color: #000000;
+    
+    border: 1px solid #000000;
+}
+
+.link1{
+
+    position: absolute;
+    width: 484px;
+    height: 55px;
+    left: 517px;
+    top: 47px;
+}
+
+.link2{
+    position: absolute;
+    width: 484px;
+    height: 55px;
+    left: 513px;
+    top: 123px;
+}
+
+.link3{
+    position: absolute;
+    width: 484px;
+    height: 55px;
+    left: 515px;
+    top: 199px;
+}
+
+.link4{
+    position: absolute;
+    width: 484px;
+    height: 55px;
+    left: 515px;
+    top: 275px;
+}
+
+.link5{
+    position: absolute;
+    width: 484px;
+    height: 55px;
+    left: 513px;
+    top: 351px;
+}
+
+.twitter{
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    left: 581px;
+    top: 56px;
+}
+
+.linkedin{
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    left: 740px;
+    top: 56px;
+}
+
+.facebook{
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    left: 899px;
+    top: 46px;
+}
+
+
+footer{
+    position: absolute;
+    width: 1512px;
+    height: 175px;
+    left: 0px;
+    top: 700px;
+    justify-content: center;
+
+}
+
+header{
+    position: absolute;
+    width: 1512px;
+    height: 368px;
+    left: 0px;
+    top: 0px;
+}
+
+body{
+    position: absolute;
+    width: 1512px;
+    height: 439px;
+    left: 0px;
+    top: 368px;
+}
+
+html{
+    position: relative;
+    width: 1512px;
+    height: 982px;
+    
+    background: url(bg-palm.jpg);
+}
